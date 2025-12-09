@@ -1,6 +1,9 @@
-body {
-    background-color: aliceblue, blue, aqua;
-    font-size: medium;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    margin: 15px;
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+section  {
+    margin-top: 50px;
+    margin-bottom: 50px;
 }
